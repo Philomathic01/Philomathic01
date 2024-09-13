@@ -1,0 +1,5 @@
+streamlit==1.26.0  # specify versions if needed
+pandas
+numpy
+joblib
+scikit-learn       # if you're using joblib with scikit-learn
