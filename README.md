@@ -37,9 +37,9 @@ Passionate about leveraging data to drive impactful insights and building intell
 
 ## 💬 **Let's Connect!**
 - 📝 Check out my portfolio: [Your Portfolio Link](https://portfolio1-45te.onrender.com/)
-- 💌 Reach me at: [Your Email Address](mailto:youremail@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- 🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- 💌 Reach me at: [Your Email Address](mailto:kishan.curaj.cs@gmail.com)
+- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kishan-curaj-cs/)
+
 
 ---
 
